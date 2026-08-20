@@ -153,6 +153,13 @@ source. Matching those three files, then `lake exe cache get` and `lake build`,
 is the intended reproduction path. Do not treat an unpinned `mathlib` `master`
 as the same environment.
 
+## 12. Release
+
+The cases, `CASE_INDEX.md`, and CI were published together in the initial
+commit. That is a catalogue release. It is not evidence of missing earlier
+history, and it is not an observational economics paper. Unproved statements
+remain in section 10; `lake build` does not fill those gaps.
+
 ## License
 
 Apache License 2.0. See `LICENSE`.
